@@ -1,6 +1,6 @@
 console.log("Bem vindo Herói!")
 
-let gameWon = 100;
+let gameWon = 120;
 let gameLost = 6;
 let victory = gameWon - gameLost;
 
